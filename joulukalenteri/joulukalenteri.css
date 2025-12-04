@@ -1,0 +1,20 @@
+.joulukalenteri__kokonaisuus {
+    display: flex;
+    flex-direction: column;
+}
+
+.joulukalenteri__kokonaisuus__luukut {
+    display: flex;
+    flex-direction: row;
+    width: 25%;
+}
+
+.joulukalenteri__kokonaisuus__luukut__luukku {
+    display: flex;
+    flex-direction: row;
+}
+
+.joulukalenteri__kokonaisuus__luukut__luukku__ovi-alue {
+    display: flex;
+    flex-direction: row;
+}
